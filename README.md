@@ -1,4 +1,4 @@
-# Welcome to My First Github Page
+# 👋Welcome to My First Github Page👋
 
 This page is my first attempt at creating a Github page. Here, I will be sharing my projects, ideas, and other interesting things I come across. 
 
